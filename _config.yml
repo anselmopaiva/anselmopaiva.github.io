@@ -11,7 +11,7 @@ email: paiva@nca.ufma.br
 # The description below will appear in your document head meta (for Google
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
-  The Neubauer Group at the University of Illinois aims to understand the
+  The Applied Computer Group  NCA-UFMA aims to develop computational solutions understand the
   universe at its most fundamental level, including the constituents of matter
   and their interactions. We are currently searching for physics beyond the
   standard model of particle physics through a detailed study of high-energy
@@ -28,6 +28,7 @@ sass:
 
 # Conversion
 markdown: kramdown
+theme: minima
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
