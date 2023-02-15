@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The <b>Neubauer Group</b> at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) through detailed study of high-energy proton-proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS detector](http://atlasexperiment.org).
+The <b>Applied Computer GroupNCA-UFMA</b> at the [Federal University of Maranhao - Brasil](http://www.ufma.br) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) through detailed study of high-energy proton-proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS detector](http://atlasexperiment.org).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
