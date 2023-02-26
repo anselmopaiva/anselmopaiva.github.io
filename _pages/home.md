@@ -1,7 +1,7 @@
 ---
-title: "Neubauer Group - Home"
+title: "NCA-UFMA Group - Home"
 layout: homelay
-excerpt: "Neubauer Group at University of Illinois"
+excerpt: "Applied Computer Group NCA-UFMA at Federal University of Maranhao"
 sitemap: false
 permalink: /
 ---
