@@ -1,7 +1,7 @@
 ---
-title: "Neubauer Group - Pictures"
+title: "Applied Computer Group NCA-UFMA  - Pictures"
 layout: piclay
-excerpt: "Neubauer Group -- Pictures"
+excerpt: "Applied Computer Group NCA-UFMA  -- Pictures"
 permalink: /pictures/
 ---
 
