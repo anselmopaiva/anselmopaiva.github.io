@@ -25,7 +25,7 @@ The <b>Applied Computer Group NCA-UFMA</b> at the [Federal University of Maranha
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LHC.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg" style="width: 600px" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg" style="width: 600px" alt="Slide 3" />
             <!-- https://cds.cern.ch/record/1994448/files/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg -->
         </div>
     </div>
@@ -42,16 +42,16 @@ The <b>Applied Computer Group NCA-UFMA</b> at the [Federal University of Maranha
 
 The NCA-UFMA mission is based on:
 <UL TYPE=DISC>
-<LI> Development of solutions to help industry and society partners to deal with their challenges and contributing to the development of our country.
-<LI> Conduct foundational research and create technologies that empower the use of computer systems in the real world.
-<LI> High-level human resources training (Undergradduated/MSc/DSc)
-<LI> Stand out as a reference in the development of state-of-the-art computational solutions.
+<LI> Development of solutions to help industry and society partners to deal with their challenges and contributing to the development of our country.</LI>
+<LI> Conduct foundational research and create technologies that empower the use of computer systems in the real world.</LI>
+<LI> High-level human resources training (Undergradduated/MSc/DSc)</LI>
+<LI> Stand out as a reference in the development of state-of-the-art computational solutions.</LI>
 </UL>	
 <br>
     
 The core competence areas of NCA-UFMA are:
 <UL TYPE=DISC>
-    <LI> Computer Vision, with special attention to medical image processing </LI>
+<LI> Computer Vision, with special attention to medical image processing </LI>
 <LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science </LI>
 <LI> Virtual and Augmented Reality </LI>
 <LI> Software Engineering and Human-computer Interfaces </LI>
