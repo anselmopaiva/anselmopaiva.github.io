@@ -8,35 +8,6 @@ permalink: /
 
 The <b>Applied Computer Group NCA-UFMA</b> at the [Federal University of Maranhao - Brasil](http://www.ufma.br) established in 2008,  performs research in Computer Science, with a mind for possible applications in industry or society.
 
-The NCA-UFMA mission is based on:
-<UL TYPE=DISC>
-<LI> Development of solutions to help industry and society partners to deal with their challenges and contributing to the development of our country.
-<LI> Conduct foundational research and create technologies that empower the use of computer systems in the real world.
-<LI> High-level human resources training (Undergradduated/MSc/DSc)
-<LI> Stand out as a reference in the development of state-of-the-art computational solutions.
-</UL>	
-    
-The core competence areas of NCA-UFMA are:
-<UL TYPE=DISC>
-<LI> Computer Vision, with special attention to medical image processing
-<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science
-<LI> Virtual and Augmented Reality
-<LI> Software Engineering and Human-computer Interfaces 
-<LI> Natural Language Processing, with emphasis on image-text applications 
-</UL>	
-
-NCA has extensive experience in the development of research and development projects with the private sector, among the main partners we highlight the following brazilian companies: Alcoa Consortium, Eletronorte, Petrobras/ANP, CHESF/ ANEEL  and Equatorial Energia (2016 – current).
-
-The academic collaborations were mainly with:
--	Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
--	LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
--	CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
--	Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
--	Biomedical Imaging Laboratory – Porto University (Portugal)
--	Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
-
-
-
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -67,6 +38,38 @@ The academic collaborations were mainly with:
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+The NCA-UFMA mission is based on:
+<UL TYPE=DISC>
+<LI> Development of solutions to help industry and society partners to deal with their challenges and contributing to the development of our country.
+<LI> Conduct foundational research and create technologies that empower the use of computer systems in the real world.
+<LI> High-level human resources training (Undergradduated/MSc/DSc)
+<LI> Stand out as a reference in the development of state-of-the-art computational solutions.
+</UL>	
+    
+The core competence areas of NCA-UFMA are:
+<UL TYPE=DISC>
+<LI> Computer Vision, with special attention to medical image processing
+<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science
+<LI> Virtual and Augmented Reality
+<LI> Software Engineering and Human-computer Interfaces 
+<LI> Natural Language Processing, with emphasis on image-text applications 
+</UL>	
+
+NCA has extensive experience in the development of research and development projects with the private sector, among the main partners we highlight the following brazilian companies: Alcoa Consortium, Eletronorte, Petrobras/ANP, CHESF/ ANEEL  and Equatorial Energia (2016 – current).
+
+The academic collaborations were mainly with:
+-	Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
+-	LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
+-	CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
+-	Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
+-	Biomedical Imaging Laboratory – Porto University (Portugal)
+-	Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
+
+
+
+
 
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
