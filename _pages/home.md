@@ -1,7 +1,7 @@
 ---
 title: "NCA-UFMA Group - Home"
 layout: homelay
-excerpt: "Applied Computer Group NCA-UFMA at Federal University of Maranhao"
+excerpt: "Applied Computer Group NCA-UFMA"
 sitemap: false
 permalink: /
 ---
@@ -47,6 +47,7 @@ The NCA-UFMA mission is based on:
 <LI> High-level human resources training (Undergradduated/MSc/DSc)
 <LI> Stand out as a reference in the development of state-of-the-art computational solutions.
 </UL>	
+<br>
     
 The core competence areas of NCA-UFMA are:
 <UL TYPE=DISC>
@@ -56,20 +57,20 @@ The core competence areas of NCA-UFMA are:
 <LI> Software Engineering and Human-computer Interfaces 
 <LI> Natural Language Processing, with emphasis on image-text applications 
 </UL>	
+<br>
 
 NCA has extensive experience in the development of research and development projects with the private sector, among the main partners we highlight the following brazilian companies: Alcoa Consortium, Eletronorte, Petrobras/ANP, CHESF/ ANEEL  and Equatorial Energia (2016 – current).
 
 The academic collaborations were mainly with:
--	Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
--	LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
--	CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
--	Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
--	Biomedical Imaging Laboratory – Porto University (Portugal)
--	Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
-
-
-
-
+<UL TYPE=DISC>
+<LI> Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
+<LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
+<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
+<LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
+<LI> Biomedical Imaging Laboratory – Porto University (Portugal)
+<LI> Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
+</UL>	
+<br>
 
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
