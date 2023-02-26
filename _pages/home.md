@@ -51,11 +51,11 @@ The NCA-UFMA mission is based on:
     
 The core competence areas of NCA-UFMA are:
 <UL TYPE=DISC>
-<LI> Computer Vision, with special attention to medical image processing
-<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science
-<LI> Virtual and Augmented Reality
-<LI> Software Engineering and Human-computer Interfaces 
-<LI> Natural Language Processing, with emphasis on image-text applications 
+    <LI> Computer Vision, with special attention to medical image processing </LI>
+<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science </LI>
+<LI> Virtual and Augmented Reality </LI>
+<LI> Software Engineering and Human-computer Interfaces </LI>
+<LI> Natural Language Processing, with emphasis on image-text applications.</LI>
 </UL>	
 <br>
 
@@ -63,12 +63,12 @@ NCA has extensive experience in the development of research and development proj
 
 The academic collaborations were mainly with:
 <UL TYPE=DISC>
-<LI> Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
-<LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
-<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
-<LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
-<LI> Biomedical Imaging Laboratory – Porto University (Portugal)
-<LI> Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
+<LI> Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
+<LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)</LI>
+<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ) </LI>
+<LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/) </LI>
+<LI> Biomedical Imaging Laboratory – Porto University (Portugal) </LI>
+<LI> Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal) </LI>
 </UL>	
 <br>
 
