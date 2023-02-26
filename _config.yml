@@ -11,11 +11,9 @@ email: nca@nca.ufma.br
 # The description below will appear in your document head meta (for Google
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
-  The Neubauer Group at the University of Illinois aims to understand the
-  universe at its most fundamental level, including the constituents of matter
-  and their interactions. We are currently searching for physics beyond the
-  standard model of particle physics through a detailed study of high-energy
-  proton collisions at CERN's Large Hadron Collider using the ATLAS detector.
+  The Applied Computer Group of Federal University of Maranhão NCA-UFMA, Brazil, 
+  established in 2008,  performs research in Computer Science, with a mind for possible 
+  applications in industry or society. 
 baseurl: /
 url: ""
 
