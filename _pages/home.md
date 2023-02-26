@@ -6,7 +6,37 @@ sitemap: false
 permalink: /
 ---
 
-The <b>Applied Computer GroupNCA-UFMA</b> at the [Federal University of Maranhao - Brasil](http://www.ufma.br) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model of particle physics](https://en.wikipedia.org/wiki/Standard_Model) through detailed study of high-energy proton-proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS detector](http://atlasexperiment.org).
+The <b>Applied Computer Group NCA-UFMA</b> at the [Federal University of Maranhao - Brasil](http://www.ufma.br) established in 2008,  performs research in Computer Science, with a mind for possible applications in industry or society.
+
+The NCA-UFMA mission is based on:
+<UL TYPE=DISC>
+<LI> Development of solutions to help industry and society partners to deal with their challenges and contributing to the development of our country.
+<LI> Conduct foundational research and create technologies that empower the use of computer systems in the real world.
+<LI> High-level human resources training (Undergradduated/MSc/DSc)
+<LI> Stand out as a reference in the development of state-of-the-art computational solutions.
+</UL>	
+    
+The core competence areas of NCA-UFMA are:
+<UL TYPE=DISC>
+<LI> Computer Vision, with special attention to medical image processing
+<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science
+<LI> Virtual and Augmented Reality
+<LI> Software Engineering and Human-computer Interfaces 
+<LI> Natural Language Processing, with emphasis on image-text applications 
+</UL>	
+
+NCA has extensive experience in the development of research and development projects with the private sector, among the main partners we highlight the following brazilian companies: Alcoa Consortium, Eletronorte, Petrobras/ANP, CHESF/ ANEEL  and Equatorial Energia (2016 – current).
+
+The academic collaborations were mainly with:
+-	Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio
+-	LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)
+-	CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ)
+-	Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/)
+-	Biomedical Imaging Laboratory – Porto University (Portugal)
+-	Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal)
+
+
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -38,13 +68,13 @@ The <b>Applied Computer GroupNCA-UFMA</b> at the [Federal University of Maranhao
   </a>
 </div>
 
-In this pursuit, we analyze data from the [ATLAS Experiment](http://atlasexperiment.org), with an emphasis on the <span style="color:blue">Higgs boson</span> as a <span style="color:blue">sensitive tool</span> to search for <span style="color:blue">new physics</span> and applications of <span style="color:blue">machine learning</span> to improve the sensitivity for these searches.
-
-Our group is also working to improve the experimental methods and apparatus in high-energy physics, including <span style="color:blue">advancing scientific software</span> and <span style="color:blue">computing</span> and developing <span style="color:blue">fast electronics</span> for <span style="color:blue">highly-parallelized</span> systems that <span style="color:blue">track charged particles</span> at the LHC.
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
 
-Our group is part of the [Physics Department](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu), best known for development of the theory of superconductivity but with a storied history of excellence in many fields including <span style="color:blue">particle physics</span> (<b>read the story [here](https://physics.illinois.edu/history/)</b>). We have members based in both Urbana and [CERN](https://home.cern) and collaborate strongly with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
+Our group is composed of reserachers from the 
+[Informatics Department](https://sigaa.ufma.br/sigaa/public/departamento/portal.jsf?lc=pt_BR&id=998) (In Portuguese)
+[Electrical Engineering Department](https://sigaa.ufma.br/sigaa/public/departamento/portal.jsf?id=1051) (In Portuguese)
+
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 70px">
