@@ -1,7 +1,7 @@
 ---
-title: "Neubauer Group - Publications"
+title: "Applied Computer Group NCA-UFMA  - Publications"
 layout: gridlay
-excerpt: "Neubauer Group -- Publications."
+excerpt: "Applied Computer Group NCA-UFMA  -- Publications."
 sitemap: false
 permalink: /publications/
 ---
