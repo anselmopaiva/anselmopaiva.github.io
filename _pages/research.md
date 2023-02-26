@@ -1,7 +1,7 @@
 ---
-title: "Neubauer Group - Research"
+title: "Applied Computer Group NCA-UFMA  - Research"
 layout: textlay
-excerpt: "Neubauer Group -- Research"
+excerpt: "Applied Computer Group NCA-UFMA  -- Research"
 sitemap: false
 permalink: /research/
 ---
