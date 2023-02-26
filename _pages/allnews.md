@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Neubauer Group at University of Illinois"
+excerpt: "Applied Computer Group NCA-UFMA"
 sitemap: false
 permalink: /allnews.html
 ---
