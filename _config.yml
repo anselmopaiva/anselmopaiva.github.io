@@ -12,7 +12,7 @@ email: nca@nca.ufma.br
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
   The Applied Computer Group of Federal University of Maranhão NCA-UFMA, Brazil, 
-  established in 2008,  performs research in Computer Science, with a mind for possible 
+  established in 2008, performs research in Computer Science, with a mind for possible 
   applications in industry or society. 
 baseurl: /
 url: ""
