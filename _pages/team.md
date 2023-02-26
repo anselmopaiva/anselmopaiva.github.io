@@ -1,14 +1,14 @@
 ---
-title: "Neubauer Group - Team"
+title: "Applied Computer Group NCA-UFMA  - Team"
 layout: gridlay
-excerpt: "Neubauer Group: Team members"
+excerpt: "Applied Computer Group NCA-UFMA : Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are often looking for new PhD students, Postdocs, Professionals and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are often looking for new Postdocs, PhD students,  Master students and Undergraduated students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Staff
 {% assign number_printed = 0 %}
