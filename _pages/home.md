@@ -63,12 +63,12 @@ NCA has extensive experience in the development of research and development proj
 
 The academic collaborations were mainly with:
 <UL TYPE=DISC>
-<LI> [Informatics Department](https://sigaa.ufma.br/sigaa/public/departamento/portal.jsf?lc=pt_BR&id=998)  Tecgraf Institute](https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
-<LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)</LI>
-<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ) </LI>
-<LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/) </LI>
-<LI> Biomedical Imaging Laboratory – Porto University (Portugal) (https://www.inesctec.pt/en/laboratories/biomedical-imaging-laboratory)</LI>
-<LI> Biomedical Image Lab - University of Trás-os-Montes and Alto Douro (Portugal) (https://www.utad.pt/engenharias/en/home/biomedical-imaging-lab/)</LI>
+<LI> [Tecgraf Institute](https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
+<LI> [LSI - Information Systems Laboratory of Federal University of Campina Grande UFCG](https://sites.google.com/view/lsi-ufcg) </LI>
+<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro UERJ </LI>
+<LI> [Computer Institute – Fluminense Federal University UFF](http://www.ic.uff.br/index.php/pt/) </LI>
+<LI> [Biomedical Imaging Laboratory – Porto University](https://www.inesctec.pt/en/laboratories/biomedical-imaging-laboratory)</LI>
+<LI> [Biomedical Image Lab - University of Trás-os-Montes and Alto Douro](https://www.utad.pt/engenharias/en/home/biomedical-imaging-lab/)</LI>
 </UL>	
 <br>
 
