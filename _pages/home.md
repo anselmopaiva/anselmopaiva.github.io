@@ -67,11 +67,10 @@ The academic collaborations were mainly with:
 <LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)</LI>
 <LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ) </LI>
 <LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/) </LI>
-<LI> Biomedical Imaging Laboratory – Porto University (Portugal) </LI>
-<LI> Engineering Department - University of Trás-os-Montes and Alto Douro (Portugal) </LI>
+<LI> Biomedical Imaging Laboratory – Porto University (Portugal) (https://www.inesctec.pt/en/laboratories/biomedical-imaging-laboratory)</LI>
+<LI> Biomedical Image Lab - University of Trás-os-Montes and Alto Douro (Portugal) (https://www.utad.pt/engenharias/en/home/biomedical-imaging-lab/)</LI>
 </UL>	
 <br>
-
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
 
