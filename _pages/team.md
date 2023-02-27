@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are often looking for new Postdocs, PhD students,  Master students and Undergraduated students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Staff
+## Principal Investigators
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -72,7 +72,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Undergraduate Students
+##  Postdoctoral/Visiting Scholars  
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -126,7 +126,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Administrative Support
+## Graduated Student
 {% assign number_printed = 0 %}
 {% for member in site.data.admin %}
 
