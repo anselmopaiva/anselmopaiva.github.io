@@ -50,26 +50,24 @@ The NCA-UFMA mission is based on:
 <br>
     
 The core competence areas of NCA-UFMA are:
-<UL TYPE=DISC>
-<LI> Computer Vision, with special attention to medical image processing </LI>
-<LI> Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science </LI>
-<LI> Virtual and Augmented Reality </LI>
-<LI> Software Engineering and Human-computer Interfaces </LI>
-<LI> Natural Language Processing, with emphasis on image-text applications.</LI>
-</UL>	
+* Computer Vision, with special attention to medical image processing 
+* Applied Artificial Intelligence and Data Analytics, that includes Machine Learning, Knowledge and Prediction; Business Intelligence and Scientific Data Science 
+* Virtual and Augmented Reality 
+* Software Engineering and Human-computer Interfaces
+* Natural Language Processing, with emphasis on image-text applications.
+*	
 <br>
 
 NCA has extensive experience in the development of research and development projects with the private sector, among the main partners we highlight the following brazilian companies: Alcoa Consortium, Eletronorte, Petrobras/ANP, CHESF/ ANEEL  and Equatorial Energia (2016 – current).
 
 The academic collaborations were mainly with:
-<UL TYPE=DISC>
-<LI> [Tecgraf Institute](https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
-<LI> [LSI - Information Systems Laboratory of Federal University of Campina Grande UFCG](https://sites.google.com/view/lsi-ufcg) </LI>
-<LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro UERJ </LI>
-<LI> [Computer Institute – Fluminense Federal University UFF](http://www.ic.uff.br/index.php/pt/) </LI>
-<LI> [Biomedical Imaging Laboratory – Porto University](https://www.inesctec.pt/en/laboratories/biomedical-imaging-laboratory)</LI>
-<LI> [Biomedical Image Lab - University of Trás-os-Montes and Alto Douro](https://www.utad.pt/engenharias/en/home/biomedical-imaging-lab/)</LI>
-</UL>	
+* [Tecgraf Institute](https://www.tecgraf.puc-rio.br/) of PUC-Rio 
+* [LSI - Information Systems Laboratory of Federal University of Campina Grande UFCG](https://sites.google.com/view/lsi-ufcg)
+* CUC – Cancer University Center – State Univeristy of Rio de Janeiro UERJ 
+* [Computer Institute – Fluminense Federal University UFF](http://www.ic.uff.br/index.php/pt/)
+* [Biomedical Imaging Laboratory – Porto University](https://www.inesctec.pt/en/laboratories/biomedical-imaging-laboratory)
+* [Biomedical Image Lab - University of Trás-os-Montes and Alto Douro](https://www.utad.pt/engenharias/en/home/biomedical-imaging-lab/)
+
 <br>
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
