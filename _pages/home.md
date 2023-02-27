@@ -63,7 +63,7 @@ NCA has extensive experience in the development of research and development proj
 
 The academic collaborations were mainly with:
 <UL TYPE=DISC>
-<LI> Tecgraf Institute (https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
+<LI> [Informatics Department](https://sigaa.ufma.br/sigaa/public/departamento/portal.jsf?lc=pt_BR&id=998)  Tecgraf Institute](https://www.tecgraf.puc-rio.br/) of PUC-Rio </LI>
 <LI> LSI - Information Systems Laboratory of Federal University of Campina Grande (UFCG)(https://sites.google.com/view/lsi-ufcg)</LI>
 <LI> CUC – Cancer University Center – State Univeristy of Rio de Janeiro (UERJ) </LI>
 <LI> Computer Institute – Fluminense Federal University UFF (http://www.ic.uff.br/index.php/pt/) </LI>
